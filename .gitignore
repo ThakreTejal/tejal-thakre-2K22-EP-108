@@ -1,0 +1,17 @@
+# Python bytecode
+_pycache_/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# Sensitive data
+.env
+
+# Database files
+db.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
